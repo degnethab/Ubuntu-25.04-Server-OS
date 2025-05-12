@@ -6,6 +6,6 @@ This repository provides a detailed guide on installing and configuring Ubuntu 2
 ### SYSTEM CALL IMPLEMENTATION
 This repository also contains an implementation of the mmap() system call in Ubuntu 25.04 Server. It demonstrates memory-mapped file I/O using a C program that opens a file, maps it to memory, modifies its contents, and cleans up resources. Key features include efficient file access and inter-process communication through shared memory.   
 
-          Contributions and suggestions for improvement are welcome!
+   Contributions and suggestions for improvement are welcome!
 
 
