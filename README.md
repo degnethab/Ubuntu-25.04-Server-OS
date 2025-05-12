@@ -1,4 +1,5 @@
-# Ubuntu-25.04-Server-OS-     BDU1601270
+# Ubuntu-25.04-Server-OS-    
+## Degnet Habtamu ## BDU1601270
 This repository provides a detailed guide on installing and configuring Ubuntu 25.04 Server OS, authored by Degnet Habtamu. The document covers key topics, including system requirements, step-by-step installation instructions, and common troubleshooting solutions.The document emphasizes the advantages of Ubuntu Server for various users and explores the role of virtualization in modern computing.
 
 
